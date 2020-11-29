@@ -1,0 +1,14 @@
+{
+  "name": "uptime-monitoring-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/md-sharfuzzaman/uptime-monitoring-api.git",
+  "author": "Sharfuzzamaan <msharfuzzaman9@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
+  }
+}
